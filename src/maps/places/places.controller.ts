@@ -5,7 +5,7 @@ import { PlacesService } from './places.service';
 export class PlacesController {
 
     constructor(private readonly placesService: PlacesService) {
-
+        
     }
 
     @Get()
