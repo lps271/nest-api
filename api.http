@@ -1,1 +1,1 @@
-GET http://locahost:3000/places?text=av governador valadares, betim, 1000
+GET http://localhost:3000/places?text=av governador valadares, betim, 1000
